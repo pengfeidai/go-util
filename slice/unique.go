@@ -1,4 +1,4 @@
-package unique
+package slice
 
 /**
  * 对切片进行去重

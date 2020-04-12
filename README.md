@@ -6,5 +6,6 @@
   - json.Encode
   - json.Decode
 
-- unique
+- slice
   - Unique（切片去重）
+  - Reverse (倒序)

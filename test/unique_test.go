@@ -1,8 +1,8 @@
 package main
 
 import (
+	"slice/unique"
 	"testing"
-	"unique/unique"
 )
 
 func TestUnique(t *testing.T) {
