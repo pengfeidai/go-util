@@ -6,5 +6,5 @@
   - json.Encode
   - json.Decode
 
-- uuid
-  - Guuid
+- unique
+  - Unique（切片去重）
